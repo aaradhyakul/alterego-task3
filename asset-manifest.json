@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/alterego-task3/static/css/main.c1c54cd9.css",
-    "main.js": "/alterego-task3/static/js/main.6eb197cf.js",
+    "main.css": "/alterego-task3/static/css/main.7071e05f.css",
+    "main.js": "/alterego-task3/static/js/main.83bc827a.js",
     "static/js/787.7f320c1d.chunk.js": "/alterego-task3/static/js/787.7f320c1d.chunk.js",
     "static/media/aerialhouse.mp4": "/alterego-task3/static/media/aerialhouse.6ae39651c6385c9c2a82.mp4",
+    "static/media/awards.png": "/alterego-task3/static/media/awards.72ac024895de8c23a773.png",
     "static/media/lifestyle2021(1).png": "/alterego-task3/static/media/lifestyle2021(1).4cbad8f1d13269865881.png",
     "static/media/lifestyle2021black.png": "/alterego-task3/static/media/lifestyle2021black.64f97d8540a1ed3697d8.png",
     "index.html": "/alterego-task3/index.html",
-    "main.c1c54cd9.css.map": "/alterego-task3/static/css/main.c1c54cd9.css.map",
-    "main.6eb197cf.js.map": "/alterego-task3/static/js/main.6eb197cf.js.map",
+    "main.7071e05f.css.map": "/alterego-task3/static/css/main.7071e05f.css.map",
+    "main.83bc827a.js.map": "/alterego-task3/static/js/main.83bc827a.js.map",
     "787.7f320c1d.chunk.js.map": "/alterego-task3/static/js/787.7f320c1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1c54cd9.css",
-    "static/js/main.6eb197cf.js"
+    "static/css/main.7071e05f.css",
+    "static/js/main.83bc827a.js"
   ]
 }
