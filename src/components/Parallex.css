@@ -1,0 +1,47 @@
+#parentwrapper{
+    z-index: 25;
+    position:absolute;
+    top:200vh;
+    background-color: aqua;
+    height:100vh;
+    width:100vw;
+    
+    overflow-y: auto;
+    perspective: 10px;
+
+ 
+   
+}
+
+
+
+
+
+.container{
+    display: flex;
+}
+.container > div{
+    height:100vh;
+    border:1px solid black;
+    flex:1;
+    transform-style: preserve-3d;
+}
+.block1,.block2,.block3{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+    background-color: aqua;
+    top:200vh;
+    position: absolute;
+}
+
+.block2{
+    left:200px;
+}
+.block3{
+    left:400px;
+}
+
+    
+
+

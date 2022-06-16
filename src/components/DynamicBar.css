@@ -1,0 +1,50 @@
+#dynamicbar{
+    display:flex;
+    justify-content: center;
+    height:100px;
+    width:100%;
+    position:absolute;
+    top:80vh;
+    z-index: -1;
+    
+
+    
+
+}
+#bar{
+    
+    height:110px;
+    width:2px;
+    border-radius: 10px;
+    
+    background-color: gray;
+    position: relative;
+    overflow: hidden;
+    
+}
+#progress{
+    position:absolute;
+    height:0%;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    animation: dynamicbar 2s cubic-bezier(0.77, 0.54, 0, 1.52) infinite;
+    
+}
+
+@keyframes dynamicbar{
+    0%{
+        height:0;
+        top:0;
+
+    }
+    50%{
+        height:100%;
+        top:0;
+    }
+    100%{
+        height:0%;
+        top:100%;
+        
+    }
+}
+
